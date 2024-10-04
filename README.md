@@ -65,24 +65,24 @@ This collection of data serves as the foundation for analyzing trends in Carlsen
 
 
 ## About Data
-**Games Played Year by Magnus in chess.com**: 2016, 2017, 2018, 2020, 2021, 2022, 2023, 2024
+
+**Games Played by Magnus in chess.com**: 14/12/2014 to 21/09/2024
 
 **Total Games by Magnus**: 5765
 - *Bullet* - 1538
 - *Blitz* - 3983
 - *Rapid* - 244
-
+  
 **Total Chess Openings with variations by Magnus**: 1316
-
 
 
 ## Use
 
 - You can use my data collection to analyze Magnus Carlsen's games (link: https://github.com/mayurnix/Magnus-Carlsen-Chess-Games-Data-Analysis/blob/main/chess_games3.csv) 
-- You can use my Python file to download other player data in pgn formate (link: https://github.com/mayurnix/Magnus-Carlsen-Chess-Games-Data-Analysis/blob/main/magnusdata_from_chesscom.py)
+- You can use my Python file to download other player data in pgn format (link: https://github.com/mayurnix/Magnus-Carlsen-Chess-Games-Data-Analysis/blob/main/magnusdata_from_chesscom.py)
 
 
 
 ## 🛠 Skills
-Python, Data Analysis, MS Excel, Microsoft Power BI
+Python, Jupyter Notebook, Data Analysis, MS Excel, Microsoft Power BI
 
