@@ -1,4 +1,3 @@
-
 # Magnus Carlsen Chess Games Data Analysis
 
 Magnus Carlsen's chess game data analysis project involves studying and identifying patterns in his games using historical data. I'm focusing on several keys:
@@ -69,11 +68,19 @@ This collection of data serves as the foundation for analyzing trends in Carlsen
 **Games Played by Magnus in chess.com**: 14/12/2014 to 21/09/2024
 
 **Total Games by Magnus**: 5765
-- *Bullet* - 1538
-- *Blitz* - 3983
-- *Rapid* - 244
-  
-**Total Chess Openings with variations by Magnus**: 1316
+
+## Outcomes
+**Total Types of Games Played by Magnus **
+- *Bullet* - 1538 (1 total games 1163, 1|1 total games 375) (1 minutes per player | increment of one second per move)  
+- *Blitz* - 3983 (3 minute's total games 2537, 3|1 minute's total games 1106, 3|2 minute's total games 103, 5 minute's total games 44, 5|1 minute's total games 128, 5|2 minute's total games 65)
+- *Rapid* - 244 (10 minute's total games 7, 10|2 minute's total games 95, 15 minute's total games 7, 15|2 minute's total games 52, 15|3 minute's total games 72, 25|25 minute's total games 11)
+
+**Total Types of Chess Openings with variations by Magnus**: 1316
+  - Alapin Sicilian Defense, Alekhines Defense, Amar Opening, Anderssen Opening, Barnes Opening, Benko Gambit, Benoni Defense, Birds Opening, Bishops Opening Berlin, Bogo Indian Defense, Budapest Gambit, Caro Kann Defense, Catalan Opening, Center Game, Clemenz Opening, Closed Sicilian Defense, Colle System, Danish Gambit, Dutch Defense, English Defense, English Opening, Englund Gambit, Four Knights Game, French Defense, Giuoco Piano Game, Grob Opening, Grunfeld Defense, Indian Game, Italian Game, Kadas Opening, Kings Fianchetto Opening, Kings Gambit Accepted Bishops Gambit, Kings Indian Attack, Kings Indian Defense, Kings Pawn Opening, Lion Defense Anti Philidor Lions Cave Variation, London System, Magnus Sicilian, Mieses Opening 1, Modern Defense, Neo Grunfeld Defense, Nimzo Indian Defense, Nimzowitsch Defense, Nimzowitsch Larsen Attack, Old Benoni Defense, Old Indian Defense, Owens Defense, Petrovs Defense, Philidor Defense, Pirc Defense, Polish Opening, Ponziani Opening, Queens Gambit Accepted, Queens Gambit Declined, Queens Indian Defense, Queens Pawn Opening, Reti Opening, Richter Veresov Attack 3, Ruy Lopez Opening Alapin Defense, Saragossa Opening, Scotch Game, Semi Slav Defense, Sicilian Defense, Slav Defense, Sodium Attack, Tarrasch Defense, Three Knights Opening, Torre Attack, Trompowsky Attack, Van Geet Opening, Van t Kruijs Opening 1, Vienna Game, Ware Opening.
+
+
+**Opponents(chess.com user names)**: 163 
+  - 12teen, aa175, abhijeetgupta1016, Abund, Adar_07, agser, AhmadzadaA, Alexander_Zubov, alexrustemov, ALieRaiseAFireOozeUh, amintabatabaei, Andreikka, AnthonyWirig, Antipov_Mikhail_Al, artin10862, artooon, AryanTari, Azerichess, BardArtem, bascheyaro, Bauman_Guy, Bigfish1995, BillieKimbah, BilodeauA, bipe137, Blitzstream, BlueWizzard, BogdanDeac, BrandonJacobson, Bulldog167, BuLolo, ChessBrah, ChessLover0108, ChessWarrior7197, Chesswizard_2007, chito89, Chopper1905, ChristopherYoo, DanielDardha2005, DanielNaroditsky, DenLaz, DonkyDonkyDonkey, dretch, dropstoneDP, DrVelja, Duhless, DuleMudule, eljanov, Elprofessor21, Elsa167, EltajSafarli, exoticprincess, FabianoCaruana, FairChess_on_YouTube, Fandorine, Firouzja2003, fizmat_64, FormerProdigy, frederiksvane, garcho08, GeorgMeier, GGuseinov, GHANDEEVAM2003, GM_dmitrij, GMBenjaminBok, gmwesley_so, GMWSO, GOGIEFF, Grischuk, GroovyKettle, gurelediz, hansen, HansOnTwitch, Harsha_Bharathakoti, Haykoooo0o, HeartAblaze, Hikaru, ilqar_74, Indianlad, Iskusnyh, iturrizaga, jefferyx, JNWDUBDGBE, joppie2, Jospem, K_A_S_T_O_R, Kacparov, KazakhFighter04, kirillshevchenko, KNVB, Konavets, Krakozia, lachesisQ, LacusSomniorum, legendisback1, LevonAronian, LiemLe, LLavash, LPSupi, LyonBeast, Man-Chuk, Manukyan_Artak, MarcoRiehle, Marcus_Harvey, Masmos97, mbojan, Meri-Arabidze, MFBerna, Michelangelo, mishanick, MITerryble, MKlose11, moro182, Msb2, Neferpitou27, NeMeQuittePas, NevorLegov, nihalsarin, NikoTheodorou, Njal28, OhanyanEminChess, Oleksandr_Bortnyk, Parhamov, pasteta13, penguingm1, Philippians46, platy3, Polish_fighter3000, Prizant_academy, promen1999, Proverbs163, rasmussvane, RaunakSadhwani2005, rednova1729, RojonR, Rud_Makarian, SahajGrover, SantoBlue, scarabee43, SchmakAttack, SenorNadie, sergoy, ShimanovAlex, Sibelephant, sokidze, SpeedofLight0, spicycaterpillar, Statham, TigranLPetrosyan, TigrVShlyape, Tobias_Koelle, Tobi-Wan-Kenobi, vi_pranav, viditchess, VincentKeymer, Volodar_Murzin, vugarrasulov, WiniVidiVici, wonderfultime, XDPS, xxysoul6, yosephtaher, Zhigalko_Sergei.
 
 
 ## Use
