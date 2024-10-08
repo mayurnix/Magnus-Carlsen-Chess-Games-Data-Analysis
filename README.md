@@ -61,8 +61,6 @@ For the Data analysis project, the data collection process involved gathering a 
 
 This collection of data serves as the foundation for analyzing trends in Carlsen’s chess strategies, performance, and playing habits over time.
 
-
-
 ## About Data
 
 **Games Played by Magnus in chess.com**: 14/12/2014 to 21/09/2024
@@ -70,12 +68,26 @@ This collection of data serves as the foundation for analyzing trends in Carlsen
 **Total Games by Magnus**: 5765
 
 ## Outcomes
-**Total Types of Games Played by Magnus **
+
+**Total Types of Games Played by Magnus**
+
 - *Bullet* - 1538 (1 total games 1163, 1|1 total games 375) (1 minutes per player | increment of one second per move)  
 - *Blitz* - 3983 (3 minute's total games 2537, 3|1 minute's total games 1106, 3|2 minute's total games 103, 5 minute's total games 44, 5|1 minute's total games 128, 5|2 minute's total games 65)
 - *Rapid* - 244 (10 minute's total games 7, 10|2 minute's total games 95, 15 minute's total games 7, 15|2 minute's total games 52, 15|3 minute's total games 72, 25|25 minute's total games 11)
 
-**Total Types of Chess Openings with variations by Magnus**: 1316
+**Termination**
+- *Magnus Carlsen won by checkmate*:- 297
+- *Magnus Carlsen won by resignation*:- 3035
+- *Magnus Carlsen won on time* :- 646
+- *Magnus Carlsen won - game abandoned*:- 8
+- *Magnus Carlsen lose by checkmate*:- 78
+- *Magnus Carlsen resign* :- 762
+- *Magnus Carlsen loses on time*:- 184
+- *Games draw*:- 751
+- *Magnus Carlsen loses - game abandoned*:- 4
+
+**Total Types of Chess Openings with variations by Magnus**: 1316.
+- *There are a few chess openings he used*
   - Alapin Sicilian Defense, Alekhines Defense, Amar Opening, Anderssen Opening, Barnes Opening, Benko Gambit, Benoni Defense, Birds Opening, Bishops Opening Berlin, Bogo Indian Defense, Budapest Gambit, Caro Kann Defense, Catalan Opening, Center Game, Clemenz Opening, Closed Sicilian Defense, Colle System, Danish Gambit, Dutch Defense, English Defense, English Opening, Englund Gambit, Four Knights Game, French Defense, Giuoco Piano Game, Grob Opening, Grunfeld Defense, Indian Game, Italian Game, Kadas Opening, Kings Fianchetto Opening, Kings Gambit Accepted Bishops Gambit, Kings Indian Attack, Kings Indian Defense, Kings Pawn Opening, Lion Defense Anti Philidor Lions Cave Variation, London System, Magnus Sicilian, Mieses Opening 1, Modern Defense, Neo Grunfeld Defense, Nimzo Indian Defense, Nimzowitsch Defense, Nimzowitsch Larsen Attack, Old Benoni Defense, Old Indian Defense, Owens Defense, Petrovs Defense, Philidor Defense, Pirc Defense, Polish Opening, Ponziani Opening, Queens Gambit Accepted, Queens Gambit Declined, Queens Indian Defense, Queens Pawn Opening, Reti Opening, Richter Veresov Attack 3, Ruy Lopez Opening Alapin Defense, Saragossa Opening, Scotch Game, Semi Slav Defense, Sicilian Defense, Slav Defense, Sodium Attack, Tarrasch Defense, Three Knights Opening, Torre Attack, Trompowsky Attack, Van Geet Opening, Van t Kruijs Opening 1, Vienna Game, Ware Opening.
 
 
