@@ -62,18 +62,33 @@ For the Data analysis project, the data collection process involved gathering a 
 This collection of data serves as the foundation for analyzing trends in Carlsen’s chess strategies, performance, and playing habits over time.
 
 ## About Data
-
 **Games Played by Magnus in chess.com**: 14/12/2014 to 21/09/2024
 
-**Total Games by Magnus**: 5765
+**Total Games Played by Magnus in chess.com**: 5765
 
 ## Outcomes
 
 **Total Types of Games Played by Magnus**
 
-- *Bullet* - 1538 (1 total games 1163, 1|1 total games 375) (1 minutes per player | increment of one second per move)  
-- *Blitz* - 3983 (3 minute's total games 2537, 3|1 minute's total games 1106, 3|2 minute's total games 103, 5 minute's total games 44, 5|1 minute's total games 128, 5|2 minute's total games 65)
-- *Rapid* - 244 (10 minute's total games 7, 10|2 minute's total games 95, 15 minute's total games 7, 15|2 minute's total games 52, 15|3 minute's total games 72, 25|25 minute's total games 11)
+- *Bullet* - 1538
+  - 1 total games 1163
+  - 1|1 total games 375 (one minutes per player | increment of one second per move)
+  
+- *Blitz* - 3983
+  - 3 minute's total games 2537
+  - 3|1 minute's total games 1106
+  - 3|2 minute's total games 103
+  - 5 minute's total games 44
+  - 5|1 minute's total games 128
+  - 5|2 minute's total games 65
+    
+- *Rapid* - 244
+  - 10 minute's total games 7
+  - 10|2 minute's total games 95
+  - 15 minute's total games 7
+  - 15|2 minute's total games 52
+  - 15|3 minute's total games 72
+  - 25|25 minute's total games 11
 
 **Termination**
 - *Magnus Carlsen won by checkmate*:- 297
