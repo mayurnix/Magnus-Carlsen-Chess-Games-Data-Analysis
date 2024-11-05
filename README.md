@@ -102,7 +102,7 @@ This collection of data serves as the foundation for analyzing trends in Carlsen
 - *Magnus Carlsen loses - game abandoned*:- 4
 
 **Total Types of Chess Openings with variations by Magnus**: 1316.
-- *There are a few chess openings he used*
+- *These are a few chess openings he used*
   - Alapin Sicilian Defense, Alekhines Defense, Amar Opening, Anderssen Opening, Barnes Opening, Benko Gambit, Benoni Defense, Birds Opening, Bishops Opening Berlin, Bogo Indian Defense, Budapest Gambit, Caro Kann Defense, Catalan Opening, Center Game, Clemenz Opening, Closed Sicilian Defense, Colle System, Danish Gambit, Dutch Defense, English Defense, English Opening, Englund Gambit, Four Knights Game, French Defense, Giuoco Piano Game, Grob Opening, Grunfeld Defense, Indian Game, Italian Game, Kadas Opening, Kings Fianchetto Opening, Kings Gambit Accepted Bishops Gambit, Kings Indian Attack, Kings Indian Defense, Kings Pawn Opening, Lion Defense Anti Philidor Lions Cave Variation, London System, Magnus Sicilian, Mieses Opening 1, Modern Defense, Neo Grunfeld Defense, Nimzo Indian Defense, Nimzowitsch Defense, Nimzowitsch Larsen Attack, Old Benoni Defense, Old Indian Defense, Owens Defense, Petrovs Defense, Philidor Defense, Pirc Defense, Polish Opening, Ponziani Opening, Queens Gambit Accepted, Queens Gambit Declined, Queens Indian Defense, Queens Pawn Opening, Reti Opening, Richter Veresov Attack 3, Ruy Lopez Opening Alapin Defense, Saragossa Opening, Scotch Game, Semi Slav Defense, Sicilian Defense, Slav Defense, Sodium Attack, Tarrasch Defense, Three Knights Opening, Torre Attack, Trompowsky Attack, Van Geet Opening, Van t Kruijs Opening 1, Vienna Game, Ware Opening.
 
 
